@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cby:home|Door43 (cby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cby|d43-cby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cby/archive/master.zip|d43-cby.zip]]
+
+**Recent Changes**
+{{changes>ns = cby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cby|Ethnologue data]]
+
